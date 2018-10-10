@@ -29,5 +29,6 @@
 		<module>byss-config</module>
 		<module>byss-eureka</module>
 		<module>byss-test</module>
+		<module>byss-elasticsearch</module>
 	</modules>
 </project>
